@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "b122f3ebb79d9f65",
+    "type": "split",
+    "children": [
+      {
+        "id": "793ffb81a08101d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b4aba52b62fce57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aula 10 - Tipos de dados/tipos_de_dados.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tipos_de_dados"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ba7f9c7558286ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2bbf1066d0f5fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331f5293ae8634ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2b12a4a3837498f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "59cdbf5308205af2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "347c9f9c079dea30",
+    "type": "split",
+    "children": [
+      {
+        "id": "47b54dc0500f2542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74e6d23c281ed269",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aula 10 - Tipos de dados/tipos_de_dados.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tipos_de_dados"
+            }
+          },
+          {
+            "id": "6d263ef7b00b3bf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aula 10 - Tipos de dados/tipos_de_dados.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tipos_de_dados"
+            }
+          },
+          {
+            "id": "0aa73b1a8fe5f31d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "898c24081d6660f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aula 10 - Tipos de dados/tipos_de_dados.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of tipos_de_dados"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2b4aba52b62fce57",
+  "lastOpenFiles": [
+    "Aula 10 - Tipos de dados",
+    "Aula 06 - Variaveis/Variaveis no js.md",
+    "Aula 10 - Tipos de dados/tipos_de_dados.md",
+    "Welcome.md",
+    "Aula 06 - Variaveis"
+  ]
+}
