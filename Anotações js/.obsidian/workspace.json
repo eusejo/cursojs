@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 18 - Funções Básico/funcoes_javascript.md",
+                "file": "Aula 19 - Objetos/Objetos em JavaScript.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "funcoes_javascript"
+              "title": "Objetos em JavaScript"
             }
           }
         ]
@@ -169,11 +169,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "331f5293ae8634ba",
+  "active": "71489e89f0d014c8",
   "lastOpenFiles": [
+    "Aula 19 - Objetos",
+    "Aula 18 - Funções Básico/funcoes_javascript.md",
+    "Aula 19 - Objetos/Objetos em JavaScript.md",
     "Aula 18 - Funções Básico",
     "Untitled.md",
-    "Aula 18 - Funções Básico/funcoes_javascript.md",
     "Aula 17 - Arrays básico/metodos_de_array.md",
     "Aula 10 - Tipos de dados/tipos_de_dados.md",
     "Aula 17 - Arrays básico",
