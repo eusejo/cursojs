@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "793ffb81a08101d3",
+        "id": "c5df2252fe698a56",
         "type": "tabs",
         "children": [
           {
-            "id": "2b4aba52b62fce57",
+            "id": "71489e89f0d014c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 10 - Tipos de dados/tipos_de_dados.md",
+                "file": "Aula 17 - Arrays básico/metodos_de_array.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tipos_de_dados"
+              "title": "metodos_de_array"
             }
           }
         ]
@@ -169,11 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b4aba52b62fce57",
+  "active": "331f5293ae8634ba",
   "lastOpenFiles": [
+    "Aula 17 - Arrays básico/metodos_de_array.md",
+    "Untitled.md",
+    "Aula 10 - Tipos de dados/tipos_de_dados.md",
+    "Aula 17 - Arrays básico",
     "Aula 10 - Tipos de dados",
     "Aula 06 - Variaveis/Variaveis no js.md",
-    "Aula 10 - Tipos de dados/tipos_de_dados.md",
     "Welcome.md",
     "Aula 06 - Variaveis"
   ]
