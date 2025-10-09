@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 17 - Arrays básico/metodos_de_array.md",
+                "file": "Aula 18 - Funções Básico/funcoes_javascript.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "metodos_de_array"
+              "title": "funcoes_javascript"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "331f5293ae8634ba",
   "lastOpenFiles": [
-    "Aula 17 - Arrays básico/metodos_de_array.md",
+    "Aula 18 - Funções Básico",
     "Untitled.md",
+    "Aula 18 - Funções Básico/funcoes_javascript.md",
+    "Aula 17 - Arrays básico/metodos_de_array.md",
     "Aula 10 - Tipos de dados/tipos_de_dados.md",
     "Aula 17 - Arrays básico",
     "Aula 10 - Tipos de dados",
