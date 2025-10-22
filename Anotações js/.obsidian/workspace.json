@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 22 - Operadores logicos/operadores_logicos_javascript.md",
+                "file": "Aula 19 - Objetos/Objetos em JavaScript.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "operadores_logicos_javascript"
+              "title": "Objetos em JavaScript"
             }
           }
         ]
@@ -169,19 +169,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "331f5293ae8634ba",
+  "active": "71489e89f0d014c8",
   "lastOpenFiles": [
-    "condicionais_javascript.md",
     "Aula 18 - Funções Básico/funcoes_javascript.md",
-    "Aula 22 - Operadores logicos/operadores_logicos_javascript.md",
+    "Aula 19 - Objetos/Objetos em JavaScript.md",
     "Aula 21 - Operadores de comparação/operadores_comparacao_javascript.md",
+    "Aula 22 - Operadores logicos/operadores_logicos_javascript.md",
+    "Aula 24-25 - Condicionais/condicionais_javascript.md",
+    "Aula 30 - Objeto Date/Objeto_Date.md",
+    "Aula 10 - Tipos de dados/tipos_de_dados.md",
+    "Aula 17 - Arrays básico/metodos_de_array.md",
+    "Aula 30 - Objeto Date",
+    "Aula 24-25 - Condicionais",
     "Untitled.md",
     "Aula 22 - Operadores logicos",
-    "Aula 17 - Arrays básico/metodos_de_array.md",
-    "Aula 10 - Tipos de dados/tipos_de_dados.md",
     "Aula 06 - Variaveis/Variaveis no js.md",
     "Aula 21 - Operadores de comparação",
-    "Aula 19 - Objetos/Objetos em JavaScript.md",
     "Aula 19 - Objetos",
     "Aula 18 - Funções Básico",
     "Aula 17 - Arrays básico",
